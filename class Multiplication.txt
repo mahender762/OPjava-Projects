@@ -4,7 +4,8 @@ class Multiplication
 {
   int a=20;
    int b=20;
-  int sum=a*b;
-Sysyem.out.println(sum);
+    int c=30;
+  int sum=a*b*c;
+Sytemm.out.println(sum);
 }
 }
